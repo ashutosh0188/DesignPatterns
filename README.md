@@ -9,5 +9,5 @@ The design patterns are basically classified into three broad categories:
 <li>Behavioural Design Pattern</li>
 </br></br>
 <b>Creational Design Pattern</b></br>
-This focuses on creation of objects. There are several such as <b>Factory Design Pattern, Abstract Factory Design Pattern, Builder Design Pattern, Singleton Design Pattern, Decorator Design Pattern</b> etc.
+This focuses on creation of objects. There are several such as <b>Factory Design Pattern, Abstract Factory Design Pattern, Builder Design Pattern, Singleton Design Pattern</b> etc.
 
